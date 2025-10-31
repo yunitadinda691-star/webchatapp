@@ -1,0 +1,26 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunitadinda691-star/chat-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yunitadinda691-star/chat-app/issues"
+  },
+  "homepage": "https://github.com/yunitadinda691-star/chat-app#readme"
+}
